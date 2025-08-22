@@ -32,4 +32,5 @@
 -  [**TextCruncher**](https://text-cruncher.vercel.app/): PDF + Text summarization with node-summarizer
   ---  
 
-## *Currently solving 200+ problems on LeetCode and battling time complexity monsters. Always leveling up.*
+## *Currently solving 250+ problems on LeetCode and battling time complexity monsters. Always leveling up.*
+[![GitHub Streak](https://streak-stats.demolab.com?user=jhanvi857)](https://git.io/streak-stats)
