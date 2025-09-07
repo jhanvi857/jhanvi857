@@ -31,5 +31,6 @@
 -  [**ChatVerse**](https://github.com/jhanvi857/chatVerse-bot): AI Chatbot using Gemini API
 -  [**TextCruncher**](https://text-cruncher.vercel.app/): PDF + Text summarization with node-summarizer
   ---  
+[![GitHub Streak](https://streak-stats.demolab.com?user=jhanvi857&theme=dark)](https://git.io/streak-stats)
 
 ## *Currently solving DSA problems on LeetCode, CodeForces and HackerRank. Always leveling up.*
