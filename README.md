@@ -1,9 +1,27 @@
-#  Hi there, I'm Jhanvi Patel!
+# *Hi there, I'm Jhanvi Patel!*
+ 
 - I’m a Computer Science student (2024–2028) from Adani university.
-- Solving problems at a time on my journey from recursion to recognition 
+- Strengthening my DSA and CP skills on Leetcode, CodeForces and HackerRank.
+- Exploring AI and ML.
   
 ---
-##  Tech Stack
+## DSA and CP Profiles
+
+<a href="https://leetcode.com/u/jhanvi857/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="36" alt="LeetCode">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://codeforces.com/profile/jhanvi.857">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3LVEIg_6x2wqlPG8pruOUnUi-wEvnw1eC0w&s" width="36" alt="Codeforces">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/profile/jhanvip8507">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="45" alt="HackerRank">
+</a>
+
+---
+
+## Tech Stack
 
 ### Web Development
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -25,10 +43,10 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
+---
+
 ##  Projects:
 -  [**DSA Visualizer**](https://dsa-visualizer-gilt.vercel.app/): Visualize algorithms with React + Node
 -  [**Route Optimizer**](https://route-optimizer-one.vercel.app/): Pathfinding using Dijkstra + OpenStreetMap
--  [**ChatVerse**](https://github.com/jhanvi857/chatVerse-bot): AI Chatbot using Gemini API
 -  [**TextCruncher**](https://text-cruncher.vercel.app/): PDF + Text summarization with node-summarizer
-  ---  
-## *Currently solving DSA problems on LeetCode, CodeForces and HackerRank. Always leveling up.*
+-  [**ChatVerse**](https://github.com/jhanvi857/chatVerse-bot): AI Chatbot using Gemini API
