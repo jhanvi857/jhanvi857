@@ -1,9 +1,9 @@
-# *Hi there, I'm Jhanvi Patel!*
- 
+# *Hi there, I'm Jhanvi Patel!*  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="30" width="36" alt="">
+
 - I’m a Computer Science student (2024–2028) from Adani university.
 - Strengthening my DSA and CP skills on Leetcode, CodeForces and HackerRank.
 - Exploring AI and ML.
-  
+
 ---
 ## DSA and CP Profiles
 
@@ -20,7 +20,6 @@
 </a>
 
 ---
-
 ## Tech Stack
 
 ### Web Development
@@ -50,3 +49,6 @@
 -  [**Route Optimizer**](https://route-optimizer-one.vercel.app/): Pathfinding using Dijkstra + OpenStreetMap
 -  [**TextCruncher**](https://text-cruncher.vercel.app/): PDF + Text summarization with node-summarizer
 -  [**ChatVerse**](https://github.com/jhanvi857/chatVerse-bot): AI Chatbot using Gemini API
+
+---
+### Passionate about growth, innovation, and meaningful tech.🌟
