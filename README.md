@@ -47,8 +47,8 @@
 ##  Projects:
 -  [**DSA Visualizer**](https://dsa-visualizer-gilt.vercel.app/): Visualize algorithms with React + Node
 -  [**Route Optimizer**](https://route-optimizer-one.vercel.app/): Pathfinding using Dijkstra + OpenStreetMap
--  [**TextCruncher**](https://text-cruncher.vercel.app/): PDF + Text summarization with node-summarizer
--  [**ChatVerse**](https://github.com/jhanvi857/chatVerse-bot): AI Chatbot using Gemini API
+-  [**VisualBrief**](https://visual-brief.vercel.app/): turns long documents or text descriptions into concise summaries and interactive diagrams. generates flowcharts.
+-  [**SafeMailAI**](https://github.com/jhanvi857/SafeMail-AI-Mobile): mobile app for Email and URL Fraud Detection.
 
 ---
 ### Passionate about growth, innovation, and meaningful tech.🌟
