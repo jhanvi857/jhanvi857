@@ -1,4 +1,4 @@
-# *Hi there, I'm Jhanvi patel!*
+# *Hi there, I'm Jhanvi patel!* <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="30" width="36" alt="">
 
 - I’m a Computer Science student (2024–2028) from Adani university.
 - Strengthening my DSA and CP skills on Leetcode, CodeForces and HackerRank.
