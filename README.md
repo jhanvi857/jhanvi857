@@ -2,7 +2,7 @@
 
 - I’m a Computer Science student (2024–2028) from Adani university.
 - Strengthening my DSA and CP skills on Leetcode, CodeForces and HackerRank.
-- Exploring AI and Machine learning.
+- Exploring Machine learning.
 ---
 ## DSA and CP Profiles
 
