@@ -63,4 +63,11 @@
 
 ---
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jhanvi857&color=blue" alt="Views" />
+  <!-- <img src="https://streak-stats.demolab.com/?user=jhanvi857&theme=dark" alt="Streak" /> -->
+</p>
+
+---
+
 ### Passionate about growth, innovation, and meaningful tech.🌟
