@@ -45,11 +45,11 @@
 
 ---
 
-##  Projects:
+##  Featured projects:
 -  [**DSA Visualizer**](https://dsa-visualizer-gilt.vercel.app/): Visualize algorithms with React + Node
 -  [**Route Optimizer**](https://route-optimizer-one.vercel.app/): Pathfinding using Dijkstra + OpenStreetMap
--  [**VisualBrief**](https://visual-brief.vercel.app/): Turns long documents into summaries + auto-generated flowcharts.
--  [**SafeMailAI**](https://github.com/jhanvi857/SafeMail-AI-Mobile): mobile app for Email and URL Fraud Detection.
+-  [**VisualBrief**](https://visual-brief.vercel.app/): Turns long documents into visual diagrams.
+-  [**coreHTTP**](https://github.com/jhanvi857/coreHTTP): Multi-threaded HTTP server built from scratch in Java with zero external dependencies. Features custom routing, static file serving, and a thread-pool architecture for handling concurrent connections.
 
 ---
 ## Let’s Connect
