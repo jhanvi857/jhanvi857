@@ -28,6 +28,7 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
@@ -36,6 +37,13 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+
+### Machine Learning
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-8A2BE2?style=flat)
+![NLTK](https://img.shields.io/badge/NLTK-154F3B?style=flat)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat)
 
 ###  Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -46,8 +54,8 @@
 ---
 
 ##  Featured projects:
--  [**DSA Visualizer**](https://dsa-visualizer-gilt.vercel.app/): Visualize algorithms with React + Node
 -  [**Route Optimizer**](https://route-optimizer-one.vercel.app/): Pathfinding using Dijkstra + OpenStreetMap
+-  [**DSA Visualizer**](https://dsa-visualizer-gilt.vercel.app/): Visualize algorithms with React & tailwind CSS.
 -  [**VisualBrief**](https://visual-brief.vercel.app/): Turns long documents into visual diagrams.
 -  [**coreHTTP**](https://github.com/jhanvi857/coreHTTP): Multi-threaded HTTP server built from scratch in Java with zero external dependencies. Features custom routing, static file serving, and a thread-pool architecture for handling concurrent connections.
 
