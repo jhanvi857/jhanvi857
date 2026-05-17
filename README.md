@@ -1,22 +1,21 @@
-# *Hi there, I'm Jhanvi patel!* <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="30" width="36" alt="">
+# *Hi, I'm Jhanvi patel!* <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="30" width="36" alt="">
 
-- I’m a Computer Science student (2024–2028) from Adani university.
-- Strengthening my DSA and CP skills on Leetcode, CodeForces and HackerRank.
-- Exploring Machine learning.
+- CS undergrad @ Adani University
+- Strengthening my DSA and CP skills on Leetcode & codeforces.
+- Building distributed systems & developer tools in Go + Java
 ---
 ## DSA and CP Profiles
 
-<a href="https://leetcode.com/u/jhanvi857/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="36" alt="LeetCode">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://codeforces.com/profile/jhanvi.857">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3LVEIg_6x2wqlPG8pruOUnUi-wEvnw1eC0w&s" width="36" alt="Codeforces">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/profile/jhanvip8507">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="45" alt="HackerRank">
-</a>
+| Platform | Stats |
+|---|---|
+| **[LeetCode](https://leetcode.com/u/jhanvi857/)** | 660+ solved · 1816 peak rating · Top 6.93% |
+| **[Codeforces](https://codeforces.com/profile/jhanvi857)** | Specialist · Max rating 1500 |
+
+<div>
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=jhanvi857&theme=dark" height="200px" />
+  &nbsp;&nbsp;
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=jhanvi857&theme=dark&force_username=true" height="200px" />
+</div>
 
 ---
 
@@ -29,55 +28,26 @@
 | **[Route Optimizer](https://github.com/jhanvi857/route-optimizer)** | A full-stack web app that computes optimized travel routes using a custom Dijkstra’s Algorithm implementation and visualizes them on an interactive map. Focused on real-world DSA integration and scalable architecture.                                                                                  | React.js, Tailwind CSS, FastAPI, MongoDB, OpenRouteService |
 
 ---
+## Tech stack 
 
-## Tech Stack
-
-### Web Development
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-
-###  Core Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-
-### Machine Learning
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-8A2BE2?style=flat)
-![NLTK](https://img.shields.io/badge/NLTK-154F3B?style=flat)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat)
-
-###  Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
+| Category | Technologies |
+|---|---|
+| **Languages** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/Java%2017-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![REST](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| **Systems** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-534AB7?style=flat-square&logoColor=white) ![Java NIO](https://img.shields.io/badge/Java%20NIO-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![CQRS](https://img.shields.io/badge/CQRS%20%2F%20Event%20Sourcing-712B13?style=flat-square&logoColor=white) ![Circuit Breaker](https://img.shields.io/badge/Circuit%20Breaker-D85A30?style=flat-square&logoColor=white) |
+| **CS Fundamentals** | ![DSA](https://img.shields.io/badge/DSA-1D9E75?style=flat-square&logoColor=white) ![OS](https://img.shields.io/badge/Operating%20Systems-085041?style=flat-square&logoColor=white) ![Networks](https://img.shields.io/badge/Computer%20Networks-0C447C?style=flat-square&logoColor=white) ![DBMS](https://img.shields.io/badge/DBMS-316192?style=flat-square&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-633806?style=flat-square&logoColor=white) |
+| **ML / Data** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-154F3B?style=flat-square&logoColor=white) ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white) |
 ---
 
 ## Let’s Connect
-<a href="https://www.linkedin.com/in/jhanvi-patel-0a032b35a/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="38" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:jhanvip8507@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="38" alt="Email"/>
-</a>
-
----
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jhanvi857&color=blue" alt="Views" />
-  <!-- <img src="https://streak-stats.demolab.com/?user=jhanvi857&theme=dark" alt="Streak" /> -->
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhanvi-patel-0a032b35a/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jhanvip8507@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://jhanvip-portfolio.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/jhanvi857/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/jhanvi857)
 
 ---
 
