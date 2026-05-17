@@ -51,4 +51,10 @@
 
 ---
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jhanvi857&color=blue" alt="Views" />
+</p>
+
+---
+
 ### Passionate about growth, innovation, and meaningful tech.🌟
