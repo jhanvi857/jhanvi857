@@ -1,6 +1,6 @@
 # *Hi, I'm Jhanvi patel!* <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="30" width="36" alt="">
 
-- CS undergrad @ Adani University
+- 2nd Year CS undergrad
 - Strengthening my DSA and CP skills on Leetcode & codeforces.
 - Building distributed systems & developer tools in Go + Java
 ---
@@ -22,10 +22,11 @@
 ##  Featured projects:
 | Project                                                                 | Description                                                                                                                                                                                                                                                                                                | Tech Stack                                                 |
 | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| **[GitResolve](https://github.com/jhanvi857/gitresolve)**           | A locally executed, safety-first Git merge conflict resolver with syntax-aware classification, structured data merging, and full decision auditability. It classifies conflicts, applies targeted resolution strategies, and escalates unsafe cases to manual review with full logging and CI integration. | Go, Git Internals                                          |
-| **[NioFlow](https://github.com/jhanvi857/coreHTTP)**                 | A lightweight Java 17 HTTP micro-framework with explicit routing, middleware composition, and production-focused runtime controls. Designed for clarity, performance, and extensibility in backend services.                                                                                               | Java 17                                                    |
-| **[Evora](https://github.com/jhanvi857/Evora)**                     | A high-fidelity, distributed Job Queue system built on the NioFlow micro-framework. It demonstrates advanced distributed systems patterns including CQRS, Saga Orchestration, Event Sourcing, and Idempotent Command Handling within a unified, high-performance runtime.                                                                                                    | Java 17, NioFlow                                           |
-| **[Route Optimizer](https://github.com/jhanvi857/route-optimizer)** | A full-stack web app that computes optimized travel routes using a custom Dijkstra’s Algorithm implementation and visualizes them on an interactive map. Focused on real-world DSA integration and scalable architecture.                                                                                  | React.js, Tailwind CSS, FastAPI, MongoDB, OpenRouteService |
+| **[GitResolve](https://github.com/jhanvi857/gitresolve)**           | A locally executed, safety-first Git merge conflict resolver with syntax-aware classification, structured data merging, and full decision auditability. | Go, Git Internals                                          |
+| **[NioFlow](https://github.com/jhanvi857/coreHTTP)**                 | A lightweight Java 17 HTTP micro-framework with explicit routing, middleware composition, and production-focused runtime controls.                                                                                                | Java 17             |
+| **[Vexor](https://github.com/jhanvi857/Vexor)**           | A lightweight, high-performance API gateway implemented in Go. | Go, API gateway                |
+| **[Evora](https://github.com/jhanvi857/Evora)**                     | Distributed Job Queue system that demonstrates advanced distributed systems patterns including CQRS, Saga Orchestration, Event Sourcing, and Idempotent Command Handling within a unified, high-performance runtime.| Java 17, NioFlow             |
+| **[Route Optimizer](https://github.com/jhanvi857/route-optimizer)** | A full-stack web app that computes optimized travel routes using a custom Dijkstra’s Algorithm implementation and visualizes them on an interactive map. | React.js, Tailwind CSS, FastAPI, MongoDB, OpenRouteService |
 
 ---
 ## Tech stack 
