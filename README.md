@@ -8,14 +8,14 @@
 
 | Platform | Stats |
 |---|---|
-| **[LeetCode](https://leetcode.com/u/jhanvi857/)** | 660+ solved · 1816 peak rating · Top 6.93% |
+| **[LeetCode](https://leetcode.com/u/jhanvi857/)** | 700+ solved · 1816 peak rating · Top 6.93% |
 | **[Codeforces](https://codeforces.com/profile/jhanvi857)** | Specialist · Max rating 1500 |
 
-<div>
+<!-- <div>
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=jhanvi857&theme=dark" height="200px" />
   &nbsp;&nbsp;
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=jhanvi857&theme=dark&force_username=true" height="200px" />
-</div>
+</div> -->
 
 ---
 
@@ -24,9 +24,11 @@
 | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
 | **[GitResolve](https://github.com/jhanvi857/gitresolve)**           | A locally executed, safety-first Git merge conflict resolver with syntax-aware classification, structured data merging, and full decision auditability. | Go, Git Internals                                          |
 | **[NioFlow](https://github.com/jhanvi857/coreHTTP)**                 | A lightweight Java 17 HTTP micro-framework with explicit routing, middleware composition, and production-focused runtime controls.                                                                                                | Java 17             |
+| **[Evora](https://github.com/jhanvi857/Evora)**                     | distributed job queue system built on top of Postgres with exactly-once idempotency guarantees and scalable worker management.| Java 17, NioFlow             |
+| **[Arbiter](https://github.com/jhanvi857/Arbiter)** | Machine Learning-assisted Database Query Optimizer | Python, Typescript |
+| **[Meridian](https://github.com/jhanvi857/Meridian)**                     | replaces a traditional B-Tree index with a 2-stage Recursive Model Index (RMI).| Python, RMI            |
 | **[Vexor](https://github.com/jhanvi857/Vexor)**           | A lightweight, high-performance API gateway implemented in Go. | Go, API gateway                |
-| **[Evora](https://github.com/jhanvi857/Evora)**                     | Distributed Job Queue system that demonstrates advanced distributed systems patterns including CQRS, Saga Orchestration, Event Sourcing, and Idempotent Command Handling within a unified, high-performance runtime.| Java 17, NioFlow             |
-| **[Route Optimizer](https://github.com/jhanvi857/route-optimizer)** | A full-stack web app that computes optimized travel routes using a custom Dijkstra’s Algorithm implementation and visualizes them on an interactive map. | React.js, Tailwind CSS, FastAPI, MongoDB, OpenRouteService |
+
 
 ---
 ## Tech stack 
