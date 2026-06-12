@@ -24,9 +24,10 @@
 | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
 | **[GitResolve](https://github.com/jhanvi857/gitresolve)**           | A locally executed, safety-first Git merge conflict resolver with syntax-aware classification, structured data merging, and full decision auditability. | Go, Git Internals                                          |
 | **[NioFlow](https://github.com/jhanvi857/coreHTTP)**                 | A lightweight Java 17 HTTP micro-framework with explicit routing, middleware composition, and production-focused runtime controls.                                                                                                | Java 17             |
-| **[Evora](https://github.com/jhanvi857/Evora)**                     | distributed job queue system built on top of Postgres with exactly-once idempotency guarantees and scalable worker management.| Java 17, NioFlow             |
 | **[Arbiter](https://github.com/jhanvi857/Arbiter)** | Machine Learning-assisted Database Query Optimizer | Python, Typescript |
 | **[Meridian](https://github.com/jhanvi857/Meridian)**                     | replaces a traditional B-Tree index with a 2-stage Recursive Model Index (RMI).| Python, RMI            |
+| **[DocStream](https://github.com/jhanvi857/DocStream)** | A highly scalable collaborative document editor like Google Docs | Golang, Typescript |
+| **[Evora](https://github.com/jhanvi857/Evora)**                     | distributed job queue system built on top of Postgres with exactly-once idempotency guarantees and scalable worker management.| Java 17, NioFlow             |
 | **[Vexor](https://github.com/jhanvi857/Vexor)**           | A lightweight, high-performance API gateway implemented in Go. | Go, API gateway                |
 
 
